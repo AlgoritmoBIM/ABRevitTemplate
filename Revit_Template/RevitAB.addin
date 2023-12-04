@@ -4,8 +4,8 @@
 		<Name>AB_Plugin</Name>
 		<Assembly>AB_Revit_Template.dll</Assembly>
 		<AddInId>10FEA962-CA7D-4BF0-8112-D6F42811B381</AddInId>
-		<FullClassName>AB_Revit_Template.CmdShowMessage</FullClassName>
-		<Text>ShowMessage</Text>
+		<FullClassName>AB_Revit_Template.Comando</FullClassName>
+		<Text>Comando</Text>
 		<VendorId>ADSK</VendorId>
 		<VendorDescription>Algoritmo BIM email= arq.emanuel.rv@gmail.com</VendorDescription>
 		<VisibilityMode>NotVisibleInFamily</VisibilityMode>
